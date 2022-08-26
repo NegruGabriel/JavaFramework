@@ -104,7 +104,7 @@ public class Homework1 {
         System.out.println(endGreeting);
     }
 
-// Adauga la "Ana are mere,pere,prune" dupa fiecare vocala de la final caracterul "Z"
+
 
     public void  verificaAddVowel(){
         Character letter= 'Z';
